@@ -11,10 +11,7 @@ These implementations are for learning purposes. The implementations may be less
 
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
-## Community Channel
 
-We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
-
-## Algorithms
+## Algorithms - Java - Code List
 
 See our [directory](DIRECTORY.md).
