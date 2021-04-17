@@ -8,9 +8,6 @@
 
 - If you are unable to find an open issue referring to the same problem, depending on the type of issue follow the appropriate steps:
 
-#### **Do you want to contribute to the documentation?**
-
-- Please read the documentation in here [Contributing to the Documentation]() ,[open a new one issue](https://github.com/yonhbu/Java/issues/new), make changes and then create a pull request, it will be put under review and accepted if it is appropriate.
 
 #### **Do you want to add a new feature?**
 
