@@ -1,4 +1,4 @@
-# The Algorithms - Java - Challenges and More
+# Java - Challenges - Algorithms
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/yonhbu?locale.x=es_XC)
 
 You can run and edit the algorithms.
@@ -14,4 +14,4 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 ## Algorithms - Java - Code List
 
-See our [directory](DIRECTORY.md).
+See the [directory](DIRECTORY.md).
