@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb94f1c6-ec02-4c2e-b05a-0056a91f1131" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/poo/basic/lambdas/ICalculadoraFortuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/poo/basic/lambdas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/co/poo/basic/lambdas/PersonaSuerte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/co/poo/basic/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/co/poo/basic/libros/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/co/poo/basic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/co/poo/basic/libros/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ejercicios_Basicos_Inicios" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qd8mBINXBurlOSSeW137nVoT0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginIS_EXTSION_METHOD_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/co/vectores" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.co.poo.basic.lambdas" />
+      <recent name="com.co.poo.basic" />
+      <recent name="com.co.vectores" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1671907\Documents\workspace_IdeaProjects_Auto\Proyectos_Basicos_Inicios\src\main\java\com\co\vectores" />
+      <recent name="C:\Users\1671907\Documents\workspace_IdeaProjects_Auto\Proyectos_Basicos_Inicios\src\main\java\com\co\ciclos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.co.poo.basic.lambdas.Main" />
+      <module name="Ejercicios_Basicos_Inicios.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.co.poo.basic.lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.co.poo.basic.libros.Main" />
+      <module name="Ejercicios_Basicos_Inicios.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.co.poo.basic.libros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.co.vectores.Practica1" />
+      <module name="Ejercicios_Basicos_Inicios.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.co.vectores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.co.poo.basic.Principal" />
+      <module name="Ejercicios_Basicos_Inicios.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.co.poo.basic.libros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Practica1" />
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb94f1c6-ec02-4c2e-b05a-0056a91f1131" name="Default Changelist" comment="" />
+      <created>1617398262333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617398262333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1617411041830">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.657@0.0.1280.657" timestamp="1617411041830" />
+    <state x="446" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1617465691902">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state x="446" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1280.657@0.0.1280.657" timestamp="1617465691902" />
+    <state width="617" height="204" key="GridCell.Tab.0.bottom" timestamp="1617644379031">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state width="617" height="204" key="GridCell.Tab.0.bottom/0.0.1280.657@0.0.1280.657" timestamp="1617644379031" />
+    <state width="617" height="204" key="GridCell.Tab.0.center" timestamp="1617644379029">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state width="617" height="204" key="GridCell.Tab.0.center/0.0.1280.657@0.0.1280.657" timestamp="1617644379029" />
+    <state width="617" height="204" key="GridCell.Tab.0.left" timestamp="1617644379029">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state width="617" height="204" key="GridCell.Tab.0.left/0.0.1280.657@0.0.1280.657" timestamp="1617644379029" />
+    <state width="617" height="204" key="GridCell.Tab.0.right" timestamp="1617644379031">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state width="617" height="204" key="GridCell.Tab.0.right/0.0.1280.657@0.0.1280.657" timestamp="1617644379031" />
+    <state x="226" y="40" key="RollbackChangesDialog" timestamp="1617410665467">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state x="226" y="40" key="RollbackChangesDialog/0.0.1280.657@0.0.1280.657" timestamp="1617410665467" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1617420416228">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.657@0.0.1280.657" timestamp="1617420416228" />
+    <state x="450" y="246" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617410657613">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state x="450" y="246" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.657@0.0.1280.657" timestamp="1617410657613" />
+    <state x="91" y="0" key="new project wizard" timestamp="1617398313227">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.657@0.0.1280.657" timestamp="1617398313227" />
+    <state x="297" y="145" key="run.anything.popup" timestamp="1617410634922">
+      <screen x="0" y="0" width="1280" height="657" />
+    </state>
+    <state x="297" y="145" key="run.anything.popup/0.0.1280.657@0.0.1280.657" timestamp="1617410634922" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/build.gradle</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
