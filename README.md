@@ -1,15 +1,9 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)
+# The Algorithms - Java - Challenges and More
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/yonhbu?locale.x=es_XC)
 
-# The Algorithms - Java
-[![Build Status](https://api.travis-ci.com/TheAlgorithms/Java.svg?branch=master)](https://travis-ci.com/TheAlgorithms/Java)&nbsp;
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100)
-[![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
+You can run and edit the algorithms.
 
-You can run and edit the algorithms or contribute to them using Gitpod.io, a free online development environment, with a single click.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheAlgorithms/Java)
-
-### All algorithms are implemented in Java (for educational purposes)
+### All algorithms and the logic are implemented in Java (for educational purposes)
 
 These implementations are for learning purposes. The implementations may be less efficient than the Java standard library.
 
@@ -17,10 +11,7 @@ These implementations are for learning purposes. The implementations may be less
 
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
-## Community Channel
 
-We're on [Gitter](https://gitter.im/TheAlgorithms)! Please join us.
-
-## Algorithms
+## Algorithms - Java - Code List
 
 See our [directory](DIRECTORY.md).
