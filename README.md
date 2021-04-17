@@ -14,4 +14,4 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 ## Algorithms - Java - Code List
 
-See our [directory](DIRECTORY.md).
+See the [directory](DIRECTORY.md).
