@@ -1,7 +1,5 @@
 # The Algorithms - Java - Challenges and More
-[![Build Status](https://api.travis-ci.com/TheAlgorithms/Java.svg?branch=master)](https://travis-ci.com/TheAlgorithms/Java)&nbsp;
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100)
-[![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/yonhbu?locale.x=es_XC)
 
 You can run and edit the algorithms or contribute to them using Gitpod.io, a free online development environment, with a single click.
 
