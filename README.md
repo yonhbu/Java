@@ -10,8 +10,3 @@ These implementations are for learning purposes. The implementations may be less
 ## Contribution Guidelines
 
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
-
-
-## Algorithms - Java - Code List
-
-See the [directory](DIRECTORY.md).
