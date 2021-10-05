@@ -8,6 +8,7 @@ import co.com.managment.model.Product;
 public class OperacionesProductos implements Operaciones {
 	List<Product> listProduc = new ArrayList<Product>();
 	
+	
 	public OperacionesProductos() {
 	}
 
@@ -30,7 +31,7 @@ public class OperacionesProductos implements Operaciones {
 
 	@Override
 	public Product newProduct() {
-		Product producto = new Product();
+	    Product producto = new Product();
 		listProduc.add(producto);
 		return producto;
 	}

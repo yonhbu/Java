@@ -11,7 +11,7 @@ public class Menu {
 	Scanner sc = new Scanner (System.in);
 	IngresoProductos ingresoProducto = new IngresoProductos();
 	List<Product> resultProducSinStock = new ArrayList<Product>();
-	//List<Product> resultProducMayoraCincoMil = new ArrayList<Product>();
+	List<Product> resultProducMayoraCincoMil = new ArrayList<Product>();
 	int opc = 0;
 	boolean dato;
 
@@ -34,15 +34,18 @@ public class Menu {
 	    .filter(listaDatos ->  listaDatos.getStock() <= 1)
 	    .forEach(listaDatos -> System.out.println("Nombre de productos sin Stock: "
 	     + listaDatos.getName()));
+
 	    
-//	    resultProducMayoraCincoMil.stream()
-//	    .filter(listaDatosMayor5000 ->  listaDatosMayor5000.getPrice() >= 5000)
-//	    .forEach(listaDatosMayor5000 -> System.out.println("Nombre de Precio de Productos Mayores a 5.000 Pesos: "
-//	     + listaDatosMayor5000.getName()));
+	    resultProducMayoraCincoMil.stream()
+	    .filter(listaDatosMayor5000 ->  listaDatosMayor5000.getPrice() >= 5000)
+	    .forEach(val -> System.out.println("Nombre de Precio de Productos Mayores a 5.000 Pesos: "
+	     + val.getName()));
 	    
 	    
 		}while (dato == false);
-		}
+		
+		
+	}
 
 	
 	
@@ -71,16 +74,19 @@ public class Menu {
 		
 		if (opc == 2) {
 			
-			resultProducSinStock = ingresoProducto.getAllProduc();
+			while(true) {
 			
+			resultProducSinStock = ingresoProducto.getAllProduc();		
 			return resultProducSinStock;
+			
+			}
 			
 	
 		} else if (opc == 3) {
 			
-			//resultProducMayoraCincoMil = ingresoProducto.getAllProduc();
+			resultProducMayoraCincoMil = ingresoProducto.getAllProduc();
 			
-			//return resultProducMayoraCincoMil;
+			return resultProducMayoraCincoMil;
 			
 		}else if (opc == 4) {
 			

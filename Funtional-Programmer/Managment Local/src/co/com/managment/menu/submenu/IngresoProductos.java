@@ -1,5 +1,6 @@
 package co.com.managment.menu.submenu;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import co.com.managment.menu.operaciones.Operaciones;
@@ -11,6 +12,7 @@ public class IngresoProductos {
 	Scanner sc = new Scanner (System.in);
 	Operaciones producto = ProductFactory.getOperaciones();
 	String salir = "";
+	List<Product> listProduc = new ArrayList<Product>();
 
 	
 	public boolean ingresoProductos () {
@@ -28,6 +30,7 @@ public class IngresoProductos {
 	    System.out.println("Ingrese Stock");
 	    producto.newProduct().setStock(sc.nextInt());
 	    System.out.println("Desea Continuar Agregando Productos? Y/N");
+	    listProduc.add(producto.newProduct());
 	    salir = sc.next();
 	    
 	    if (salir.equalsIgnoreCase("y")){
@@ -46,7 +49,8 @@ public class IngresoProductos {
 	
 	
 	public List<Product> getAllProduc () {
-	  return producto.getAllProduc();
+		//listProduc = producto.getAllProduc();
+	  return listProduc;
 		
 	}
 	
